@@ -1,0 +1,13 @@
+C:\Users\Vijay Kshirasagar\Desktop\EmpWage\EmpWage\EmpWage\bin\Debug\netcoreapp3.1\EmpWage.exe
+C:\Users\Vijay Kshirasagar\Desktop\EmpWage\EmpWage\EmpWage\bin\Debug\netcoreapp3.1\EmpWage.deps.json
+C:\Users\Vijay Kshirasagar\Desktop\EmpWage\EmpWage\EmpWage\bin\Debug\netcoreapp3.1\EmpWage.runtimeconfig.json
+C:\Users\Vijay Kshirasagar\Desktop\EmpWage\EmpWage\EmpWage\bin\Debug\netcoreapp3.1\EmpWage.runtimeconfig.dev.json
+C:\Users\Vijay Kshirasagar\Desktop\EmpWage\EmpWage\EmpWage\bin\Debug\netcoreapp3.1\EmpWage.dll
+C:\Users\Vijay Kshirasagar\Desktop\EmpWage\EmpWage\EmpWage\bin\Debug\netcoreapp3.1\EmpWage.pdb
+C:\Users\Vijay Kshirasagar\Desktop\EmpWage\EmpWage\EmpWage\obj\Debug\netcoreapp3.1\EmpWage.csprojAssemblyReference.cache
+C:\Users\Vijay Kshirasagar\Desktop\EmpWage\EmpWage\EmpWage\obj\Debug\netcoreapp3.1\EmpWage.AssemblyInfoInputs.cache
+C:\Users\Vijay Kshirasagar\Desktop\EmpWage\EmpWage\EmpWage\obj\Debug\netcoreapp3.1\EmpWage.AssemblyInfo.cs
+C:\Users\Vijay Kshirasagar\Desktop\EmpWage\EmpWage\EmpWage\obj\Debug\netcoreapp3.1\EmpWage.csproj.CoreCompileInputs.cache
+C:\Users\Vijay Kshirasagar\Desktop\EmpWage\EmpWage\EmpWage\obj\Debug\netcoreapp3.1\EmpWage.dll
+C:\Users\Vijay Kshirasagar\Desktop\EmpWage\EmpWage\EmpWage\obj\Debug\netcoreapp3.1\EmpWage.pdb
+C:\Users\Vijay Kshirasagar\Desktop\EmpWage\EmpWage\EmpWage\obj\Debug\netcoreapp3.1\EmpWage.genruntimeconfig.cache
